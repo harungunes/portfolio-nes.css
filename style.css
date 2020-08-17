@@ -1,0 +1,52 @@
+body {
+  padding-bottom: 50px;
+  /* background-color: rgb(213, 216, 203); */
+}
+
+.behance {
+  image-rendering: pixelated;
+}
+
+nav{
+  padding: 20px; 
+  border-bottom: 3px solid #ccc; 
+  margin-bottom: 60px;
+}
+
+nav h2 {
+  margin-bottom: 0;
+}
+
+.introduction {
+  margin-bottom: 50px;
+}
+
+.nes-list {
+  margin-bottom: 0;
+}
+
+.boxes-top-bottom {
+  margin: 50px 0 50px 0;
+}
+
+.boxes-bottom {
+  margin-bottom: 50px;
+}
+
+.boxes-top {
+  margin-top: 50px;
+}
+
+.nes-progress {
+  height: 25px;
+}
+
+.footer {
+  margin-top: 50px;
+  font-size: 65%;
+}
+
+.centered-footer {
+  text-align: center;
+  color: rgb(175, 169, 169);
+}
